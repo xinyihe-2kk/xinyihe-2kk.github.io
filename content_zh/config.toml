@@ -1,12 +1,15 @@
 [site]
-title = "刘嘉乐"
-description = "某某大学博士生个人主页。"
-last_updated = "2025年11月18日"
+title = "何欣怿"
+description = "何欣怿个人主页。"
+last_updated = "2026年6月6日"
 
 [author]
-name = "刘嘉乐"
-title = "博士生"
-institution = "某某大学"
+name = "何欣怿"
+title = "硕士研究生"
+institution = [
+  "2022-2025广西大学（硕士）"
+  "2018-2022重庆交通大学（学士）"
+]
 
 [social]
 location = "城市，国家"

@@ -6,8 +6,8 @@ description = "获得的荣誉与奖项。"
 title = "国奖奖学金荣誉证书"
 subtitle = "中华人民共和国教育部"
 date = "2024"
-year = {2024},
-month = dec,
+year = {2024}
+month = dec
 content = "奖项说明。"
 preview={example.png}
 

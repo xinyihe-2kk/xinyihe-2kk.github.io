@@ -1,9 +1,23 @@
 type = "card"
-title = "学术服务"
-description = "专业服务与社区参与。"
+title = "学术与工作动态"
+description = ""
 
 [[items]]
-title = "审稿人"
-subtitle = "某期刊"
-date = "2024"
-content = "参与审阅论文。"
+title = "国际质量管理小组会议(ICQCC)"
+subtitle = "参赛汇报"
+date = "2025年11月"
+content =["获ICQCC金奖"]
+
+[[items]]
+title = "大学生创新大赛"
+subtitle = "广西大学选拔赛"
+date = "2024年5月"
+content =[ "项目名称：清烟固本——沥青路面抑烟减排新方案（团队负责人）——银奖 ",
+"项目名称：“厚生沥用”一开创新型生物环保路面新时代（团队成员）——铜奖"]
+
+[[items]]
+title = "世界交通运输大会(WTC)"
+subtitle = "版块汇报"
+date = "2023年6月"
+content =[ "汇报内容：短期老化对生物沥青/SBS/PPA复合改性沥青流变性能的影响",
+"Effect of Short-term Aging on Rheological Properties of Bio-asphalt(BA)/ Styrene-Butadiene-Styrene(SBS)/ Polyphosphoric Acid (PPA) Composite Modified Asphalt"]

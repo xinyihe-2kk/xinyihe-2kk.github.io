@@ -16,7 +16,7 @@ location_details = [
 ]
 
 [[navigation]]
-title = "教育经历"
+title = "首页"
 type = "page"
 target = "about"
 href = "/"
@@ -28,16 +28,16 @@ target = "publications"
 href = "/publications"
 
 [[navigation]]
-title = "项目经历"
-type = "page"
-target = "teaching"
-href = "/teaching"
-
-[[navigation]]
 title = "奖项"
 type = "page"
 target = "awards"
 href = "/awards"
+
+[[navigation]]
+title = "项目经历"
+type = "page"
+target = "teaching"
+href = "/teaching"
 
 [[navigation]]
 title = "动态"

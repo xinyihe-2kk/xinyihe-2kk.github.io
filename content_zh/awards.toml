@@ -9,7 +9,7 @@ date = "2024"
 year = {2024},
 month = dec,
 content = "奖项说明。"
-preview={example.png},
+preview={example.png}
 
 [[items]]
 title = "示例奖项"

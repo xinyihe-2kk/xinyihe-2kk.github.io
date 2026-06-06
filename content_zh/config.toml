@@ -1,21 +1,18 @@
 [site]
 title = "何欣怿"
 description = "何欣怿个人主页。"
-last_updated = "2026年6月6日"
+last_updated = "2026年6月7日"
 
 [author]
 name = "何欣怿"
 title = "硕士研究生"
-institution = [
-  "     2022-2025广西大学（硕士）   ",
-  "2018-2022重庆交通大学（学士）"
-]
+institution = "广西大学（硕士），重庆交通大学（学士）"
 
 [social]
 location = "城市，国家"
 location_details = [
-  "理科楼 123 室，",
-  "大学路，城市，国家"
+  "土木建筑工程学院，",
+  "大学东路100号，南宁，中国"
 ]
 
 [[navigation]]
@@ -25,13 +22,13 @@ target = "about"
 href = "/"
 
 [[navigation]]
-title = "论文"
+title = "成果"
 type = "page"
 target = "publications"
 href = "/publications"
 
 [[navigation]]
-title = "教学"
+title = "项目经历"
 type = "page"
 target = "teaching"
 href = "/teaching"
@@ -43,7 +40,7 @@ target = "awards"
 href = "/awards"
 
 [[navigation]]
-title = "服务"
+title = "简历"
 type = "page"
 target = "services"
 href = "/services"

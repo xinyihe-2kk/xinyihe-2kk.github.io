@@ -40,7 +40,7 @@ target = "awards"
 href = "/awards"
 
 [[navigation]]
-title = "简历"
+title = "动态"
 type = "page"
 target = "services"
 href = "/services"

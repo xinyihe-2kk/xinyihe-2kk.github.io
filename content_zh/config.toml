@@ -16,7 +16,7 @@ location_details = [
 ]
 
 [[navigation]]
-title = "关于我"
+title = "教育经历"
 type = "page"
 target = "about"
 href = "/"

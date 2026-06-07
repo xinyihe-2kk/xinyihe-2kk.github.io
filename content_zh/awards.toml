@@ -7,7 +7,7 @@ title = "国奖奖学金荣誉证书"
 subtitle = "中华人民共和国教育部"
 date = "2024"
 year = {2024}
-content = "奖项说明。"[区优毕专访](https://mp.weixin.qq.com/s/vhEPA8sTm0hYlm4xDaV2Mg)
+content = "奖项说明。"
 preview={example.png}
 
 [[items]]

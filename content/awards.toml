@@ -3,11 +3,12 @@ title = "Awards"
 description = "Honors and awards I have received."
 
 [[items]]
-title = "Example Award"
-subtitle = "Organization"
-date = "2025"
-content = "Description of the award."
-preview={1.png}
+title = "2024年一等学业奖学金"
+subtitle = "广西大学"
+date = "2024"
+content = "2024年一等学业奖学金."
+image = "/awards/2024yideng.jpg"
+image_file = "/awards/2024yideng.jpg"
 
 [[items]]
 title = "Example Award"

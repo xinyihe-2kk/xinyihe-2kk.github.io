@@ -7,7 +7,7 @@ title = "Example Award"
 subtitle = "Organization"
 date = "2025"
 content = "Description of the award."
-preview={1.png},
+preview={1.png}
 
 [[items]]
 title = "Example Award"
